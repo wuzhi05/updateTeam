@@ -1,0 +1,611 @@
+{
+    "zqkdFast_shareRead": {
+        "status": 0,
+        "updateMsg": "2022.01.09 11:49 更新版本\n",
+        "version": 1.00,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "zqkdFast_reward": {
+        "status": 0,
+        "updateMsg": "2022.01.09 1:51 更新版本\n",
+        "version": 1.00,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"]
+    },
+    "zqkdFast_read": {
+        "status": 0,
+        "updateMsg": "2022.01.09 1:51 修复文章视频\n",
+        "version": 1.00,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "zqkdFast_kkz": {
+        "status": 0,
+        "updateMsg": "2022.01.09 2:00 修复看看赚\n",
+        "version": 1.00,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "zqkdkyy": {
+        "status": 0,
+        "updateMsg": "\n",
+        "version": 1.00,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "jztt": {
+        "status": 0,
+        "updateMsg": "2022.08.22 01:00 更新\n",
+        "version": 1.02,
+        "latestVersion": 1.07,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "kfx": {
+        "status": 0,
+        "updateMsg": "2022.09.23 更新兼容换行,@和&分割",
+        "version": 1.00,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "kf-order": {
+        "status": 0,
+        "updateMsg": "2022.09.23 更新兼容换行,@和&分割",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "txs": {
+        "status": 0,
+        "updateMsg": "2022.02.20 13:30 完成脚本",
+        "version": 1.00,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "ddgy": {
+        "status": 0,
+        "updateMsg": "2022.06.14 15:00 修复签到和吹牛，增加推送开关\n不懂设置变量的请打开脚本文件看开头的说明\n",
+        "version": 1.01,
+        "latestVersion": 1.04,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "meituan": {
+        "status": 0,
+        "updateMsg": "2024.04.24 21:10 更新领券并去掉一些失效活动\n",
+        "version": 3.05,
+        "latestVersion": 3.17,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "dsjWithdraw": {
+        "status": 0,
+        "updateMsg": "2022.05.03 23:00 完成脚本\n",
+        "version": 1.00,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "gqsl": {
+        "status": 0,
+        "updateMsg": "2022.12.18 21:00 增加推送\n",
+        "version": 1.00,
+        "latestVersion": 1.04,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "zssq": {
+        "status": 0,
+        "updateMsg": "2022.05.20 10:00 完成\n",
+        "version": 1.00,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "gqcq": {
+        "status": 0,
+        "updateMsg": "2023.12.23 22:30 默认不做发文章和评论任务\n",
+        "version": 2.01,
+        "latestVersion": 2.06,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "gqcq_x": {
+        "status": 0,
+        "updateMsg": "2023.12.10 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "ccp": {
+        "status": 0,
+        "updateMsg": "2022.06.01 00:00 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "ks": {
+        "status": 0,
+        "updateMsg": "每天签到，开宝箱，提现\n",
+        "version": 1.04,
+        "latestVersion": 1.06,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "ksjsb": {
+        "status": 0,
+        "updateMsg": "每天签到，分享，开宝箱，提现，随便用用\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "ksjsb_v2": {
+        "status": 0,
+        "updateMsg": "支持自己搭建的sig3接口\n变量sigurl：sig3接口url，要求为get请求，直接返回sig3，脚本会把[url+sig]放在请求参数里\n如果有token验证，请把token也写在url里\n格式如： export sigurl='http://192.168.0.2:6789/?token=你的token&str='\n",
+        "version": 1.06,
+        "latestVersion": 1.14,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "txspfl": {
+        "status": 0,
+        "updateMsg": "2022.06.25 01:30 更新接口，加入新任务\n",
+        "version": 1.03,
+        "latestVersion": 1.03,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "gjzz": {
+        "status": 0,
+        "updateMsg": "提现需要实名和人脸\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "kaka": {
+        "status": 0,
+        "updateMsg": "",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "hmd": {
+        "status": 0,
+        "updateMsg": "2022.07.04 18:00更新",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "dt": {
+        "status": 0,
+        "updateMsg": "2022.07.04 18:00更新",
+        "version": 1.02,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "tkzxbx": {
+        "status": 0,
+        "updateMsg": "2022.07.22 17:00完成\n目前仅支持部分任务\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "bjqc": {
+        "status": 0,
+        "updateMsg": "2022.07.25 23:00更新\n修复不领取任务奖励的问题\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "bjxd": {
+        "status": 0,
+        "updateMsg": "2022.07.28 20:00 兼容安卓CK，安卓CK需要在原CK后面加#Android\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "kugou": {
+        "status": 0,
+        "updateMsg": "2022.08.28 更新\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "naixue": {
+        "status": 0,
+        "updateMsg": "2022.09.20 完成，目前只有签到功能\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "youqiying": {
+        "status": 0,
+        "updateMsg": "2022.10.09 完成\n注册链接(复制到微信打开): https://m.yqypt.com/invitationNew.html?invitationCode=387184\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "kfwsd": {
+        "status": 0,
+        "updateMsg": "2022.10.18 14:00完成\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "bhxcy": {
+        "status": 0,
+        "updateMsg": "2022.10.31 16:00更新\n",
+        "version": 2.01,
+        "latestVersion": 2.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "chinaTelecom": {
+        "status": 0,
+        "updateMsg": "2024.06.02 12:00 优化更新\n",
+        "version": 6.02,
+        "latestVersion": 6.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "sfsy": {
+        "status": 0,
+        "updateMsg": "2024.06.14 22:40 更新端午金币抽奖\n",
+        "version": 3.03,
+        "latestVersion": 3.03,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "jryc": {
+        "status": 2,
+        "updateMsg": "2022.12.27 21:00更新\n",
+        "version": 1.02,
+        "latestVersion": 1.04,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n",
+            "运行会导致封号, 请删除\n"
+        ]
+    },
+    "nfsq": {
+        "status": 0,
+        "updateMsg": "2024.01.02 22:00 更新\n",
+        "version": 2.01,
+        "latestVersion": 2.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "chinaUnicom": {
+        "status": 0,
+        "updateMsg": "2024.06.14 21:45 修复阅读\n",
+        "version": 2.08,
+        "latestVersion": 2.08,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n",
+            "服务器炸了, 暂时停止使用\n"
+        ]
+    },
+    "aoc": {
+        "status": 0,
+        "updateMsg": "2023.05.09 23:50完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "xygj": {
+        "status": 0,
+        "updateMsg": "2023.07.13 21:00完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "tyqh": {
+        "status": 0,
+        "updateMsg": "2024.01.31 23:30 更新第三期\n",
+        "version": 3.01,
+        "latestVersion": 3.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "gqaa": {
+        "status": 0,
+        "updateMsg": "2024.03.26 23:00 修复签到\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "trda": {
+        "status": 0,
+        "updateMsg": "2023.09.02 15:30 更新随机延迟时间\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "wangchao": {
+        "status": 0,
+        "updateMsg": "2023.08.17 11:30 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "bwcj": {
+        "status": 0,
+        "updateMsg": "2024.03.09 13:20 更新新版签到\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "aljfsc": {
+        "status": 0,
+        "updateMsg": "2023.10.13 22:00 更新为不并发执行\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "dbkd": {
+        "status": 0,
+        "updateMsg": "2023.10.13 22:00 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "didi": {
+        "status": 0,
+        "updateMsg": "2024.04.26 14:20 更新五一福利金活动\n",
+        "version": 1.01,
+        "latestVersion": 1.04,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "pupu": {
+        "status": 0,
+        "updateMsg": "2024.02.06 00:00 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "xclx": {
+        "status": 0,
+        "updateMsg": "2024.03.26 23:10 签到失败后不投注打卡\n",
+        "version": 1.01,
+        "latestVersion": 1.02,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "crh": {
+        "status": 0,
+        "updateMsg": "2024.03.14 21:50 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "chinaUnicomAli": {
+        "status": 0,
+        "updateMsg": "2024.03.14 21:50 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "yhsh": {
+        "status": 0,
+        "updateMsg": "2024.04.28 23:00 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "tpt": {
+        "status": 0,
+        "updateMsg": "2024.05.08 11:20 完成\n",
+        "version": 1.01,
+        "latestVersion": 1.01,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "elm": {
+        "status": 0,
+        "updateMsg": "2024.06.16 11:20 破解By:shuye72\n",
+        "version": 3.10,
+        "latestVersion": 3.10,
+        "versionMsg": "当前脚本版本过低\n",
+        "msg": [
+            "运行正常\n",
+            "此脚本无法运行，请马上删除\n"
+        ]
+    },
+    "commonMsg": [
+        "破解By:shuye72"
+    ],
+    "commonNotify": [
+        "破解By:shuye72"
+    ],
+    "msg": "运行正常\n",
+    "errorMsg": "请马上删除，否则原地爆炸\n"
+}
